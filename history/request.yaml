@@ -1,5 +1,5 @@
 data_ready: false
 data_stream: RS03AXBS-LJ03A-11-OPTAAC303-streamed-optaa_status
-last_request: '2022-01-21T18:07:35.853779Z'
+last_request: '2022-02-07T19:21:07.410010Z'
 response: https://raw.githubusercontent.com/ooi-data/RS03AXBS-LJ03A-11-OPTAAC303-streamed-optaa_status/main/history/response.json
 status: discontinued
